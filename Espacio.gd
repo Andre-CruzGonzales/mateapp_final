@@ -12,6 +12,7 @@ func nuevo_juego():
 	$InicioTimer.start()
 	$CanvasLayer.mostrar_mensaje("LISTO")
 	$CanvasLayer.update_score(score)
+	$Musica.play()
 	
 	
 
@@ -21,6 +22,10 @@ func game_over():
 	$ScoreTimer.stop()
 	$RocaTimer.stop()
 	$CanvasLayer.game_over()
+	$AudioMuerte.play()
+	$Musica.stop()
+	
+
 	
 
 

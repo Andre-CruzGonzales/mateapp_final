@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/kisspng-earth-planet-cartoon-mars-clip-art-mars-5ac40858ef5e23.0775321015227966329805 (1).png-288519a8813c6b4656e8d71067b2821c.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://kisspng-earth-planet-cartoon-mars-clip-art-mars-5ac40858ef5e23.0775321015227966329805 (1).png"
+dest_files=[ "res://.import/kisspng-earth-planet-cartoon-mars-clip-art-mars-5ac40858ef5e23.0775321015227966329805 (1).png-288519a8813c6b4656e8d71067b2821c.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

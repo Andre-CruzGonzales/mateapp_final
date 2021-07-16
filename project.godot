@@ -10,9 +10,10 @@ config_version=4
 
 [application]
 
-config/name="juego_godot_final"
+config/name="Space Ship"
 run/main_scene="res://Espacio.tscn"
-config/icon="res://icon.png"
+boot_splash/image="res://kisspng-earth-planet-cartoon-mars-clip-art-mars-5ac40858ef5e23.0775321015227966329805 (1).png"
+config/icon="res://sprites/nave.png"
 
 [display]
 
